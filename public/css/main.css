@@ -1,0 +1,49 @@
+#class-nav{
+  background-color: #1BAEAA;
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+.navbar-brand{
+  font-weight: lighter;
+}
+
+
+.tile-dashboard{
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.center {
+    margin: 0 auto;
+    width: 80%;
+}
+
+label {
+  color: white;
+  font-weight: lighter;
+}
+
+.klass-tile{
+  background-color: #DDEFED;
+  margin-bottom: 10px;
+}
+
+.klass-tile-detail{
+  background-color: #36B7AF;
+}
+
+.klass-tile-detail a{
+  color: white;
+  font-weight: lighter;
+}
+.klass-tile p {
+  margin-bottom: 0px;
+}
+.klass-tile {
+  padding-left: 0px;
+  padding-right: 0px;
+}
